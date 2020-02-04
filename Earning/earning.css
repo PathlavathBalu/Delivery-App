@@ -1,0 +1,16 @@
+body {
+    font-family: "Lato", sans-serif;
+    background: #000;
+}
+.earning {
+    font-size: 13px;
+}
+.setting {
+    background: #1f9fec; 
+}
+.previous {
+    background-color: #222222;
+}
+.week {
+    color: #277;
+}
